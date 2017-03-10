@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.5
 
 MAINTAINER Marcel Beck <marcel@beck.im>
 
